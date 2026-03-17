@@ -25,7 +25,7 @@ Me chamo Daniel Paes Santos, tenho 18 anos e sou natural de São Paulo. Concluí
 </a>
 
 <!-- Discord -->
-<a href="https://discord.com/channels/@me" target="_blank">
+<a href="https://discord.com/channels/@me/1483444253278339074" target="_blank">
   <img 
     alt="Discord" 
     title="Entre no meu Discord" 
