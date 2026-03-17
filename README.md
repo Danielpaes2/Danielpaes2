@@ -34,7 +34,7 @@ Me chamo Daniel Paes Santos, tenho 18 anos e sou natural de São Paulo. Concluí
 </a>
 
 <!-- Gmail -->
-<a href="mailto:SEUEMAIL@gmail.com?subject=Contato%20via%20GitHub">
+<a href="mailto:danielpaes299@gmail.com?subject=Contato%20via%20GitHub">
   <img 
     alt="Gmail" 
     title="Me envie um email" 
@@ -43,7 +43,7 @@ Me chamo Daniel Paes Santos, tenho 18 anos e sou natural de São Paulo. Concluí
 </a>
 
 <!-- Estrelas GitHub -->
-<a href="https://github.com/Danielpaes2?tab=repositories" target="_blank">
+<a href="https://github.com/danielpaes2?tab=repositories" target="_blank">
   <img 
     alt="Total de estrelas" 
     title="Total de estrelas no GitHub" 
@@ -52,7 +52,7 @@ Me chamo Daniel Paes Santos, tenho 18 anos e sou natural de São Paulo. Concluí
 </a>
 
 <!-- Seguidores GitHub -->
-<a href="https://github.com/Danielpaes2?tab=followers" target="_blank">
+<a href="https://github.com/danielpaes2?tab=followers" target="_blank">
   <img 
     alt="Seguidores" 
     title="Me siga no GitHub" 
