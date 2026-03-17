@@ -43,20 +43,20 @@ Me chamo Daniel Paes Santos, tenho 18 anos e sou natural de São Paulo. Concluí
 </a>
 
 <!-- Estrelas GitHub -->
-<a href="https://github.com/danielpaes2?tab=repositories" target="_blank">
+<a href="https://github.com/Danielpaes2?tab=repositories" target="_blank">
   <img 
     alt="Total de estrelas" 
     title="Total de estrelas no GitHub" 
-    src="https://custom-icon-badges.demolab.com/github/stars/Danielpaes2?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+    src="https://custom-icon-badges.demolab.com/github/stars/danielpaes2?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
   />
 </a>
 
 <!-- Seguidores GitHub -->
-<a href="https://github.com/danielpaes2?tab=followers" target="_blank">
+<a href="https://github.com/Danielpaes2?tab=followers" target="_blank">
   <img 
     alt="Seguidores" 
     title="Me siga no GitHub" 
-    src="https://custom-icon-badges.demolab.com/github/followers/Danielpaes2?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    src="https://custom-icon-badges.demolab.com/github/followers/danielpaes2?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
   />
 </a>
 
