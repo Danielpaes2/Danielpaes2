@@ -52,7 +52,7 @@ Me chamo Daniel Paes Santos, tenho 18 anos e sou natural de São Paulo. Concluí
 </a>
 
 <!-- Seguidores GitHub -->
-<a href="https://github.com/danielpaes2?tab=followers" target="_blank">
+<a href="https://github.com/Danielpaes2?tab=followers" target="_blank">
   <img 
     alt="Seguidores" 
     title="Me siga no GitHub" 
